@@ -1,2 +1,2 @@
 # Algorithms and Games
-Learned algorithms and games for my professional development to increase my programming intuition.
+Learned algorithms and games to increase my programming intuition.

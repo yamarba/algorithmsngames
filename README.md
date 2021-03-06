@@ -1,2 +1,2 @@
 # Algorithms and Games
-Learned algorithms and games to increase my programming intuition.
+Reviewed algorithms and games to increase my programming intuition.
